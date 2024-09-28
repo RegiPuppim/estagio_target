@@ -6,7 +6,7 @@ Prova Técnica:
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
 
-RESPOSTA: Programa com nome target1.fibonacci postado neste repositório. 
+RESPOSTA: Programa com nome target1.fibonacci postado neste repositório. A linguagem Python foi escolhida para este programa.
 
 
 
@@ -15,7 +15,7 @@ RESPOSTA: Programa com nome target1.fibonacci postado neste repositório.
 IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
 
-RESPOSTA: Programa com nome target2.letraA postado neste repositório. 
+RESPOSTA: Programa com nome target2.letraA postado neste repositório. A linguagem Python foi escolhida para este programa.
 
 
 
